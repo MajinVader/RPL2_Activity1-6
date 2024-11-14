@@ -1,0 +1,1 @@
+Ringkasan Singkat Tentang Kegiatan Rekayasa Perangkat Lunak 1-6, kegiatan ini telah dilakukan dalam 4 pertemuan, di mana setiap pertemuan menggunakan aplikasi Apache NetBeans dan mencakup kode Java. Materi yang dipelajari meliputi MVC, Hibernate, dan Spring Boot.
